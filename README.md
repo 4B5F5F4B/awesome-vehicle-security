@@ -325,7 +325,10 @@ List of lists.
 # Vehicle Security Company
 - [Argus](https://argus-sec.com/cyber-security-services/)
 - [KeenLab](https://keenlab.tencent.com/en/)
-
+- [Visual Threat](http://www.visualthreat.com/)
+- [Trillium](https://trilliumsecure.com/trilliumsecureplatform/)
+- [Upstream](https://www.upstream.auto/)
+- [Synopsys](https://www.synopsys.com/solutions/automotive.html)
 
 # Contributing
 
