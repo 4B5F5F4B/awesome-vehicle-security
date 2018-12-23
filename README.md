@@ -324,3 +324,6 @@ List of lists.
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) first.
+
+
+# Car Hacking Researchers
